@@ -1,0 +1,6 @@
+{
+    "stack": "java8",
+    "type": "basic_io",
+    "name": "Testing",
+    "main":"MyBasicIOFunction"
+}

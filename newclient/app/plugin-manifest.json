@@ -1,0 +1,9 @@
+{
+    "service": "CATALYST",
+    "client": {
+        "id": "1000.TSAOSWVIXT1069279Y512PHYZD13ED",
+        "scope": "ZohoCRM.modules.ALL",
+        "accounts-url": "https://accounts.csez.zohocorpin.com"
+    },
+    "file_location": "/app/HelloWorld.html"
+}

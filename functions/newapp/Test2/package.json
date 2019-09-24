@@ -1,0 +1,6 @@
+{
+    "main": "index.js",
+   	"stack": "node10",
+    "type": "basic_io",
+    "name": "NodeFunc"
+}

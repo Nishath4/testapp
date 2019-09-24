@@ -1,0 +1,14 @@
+{
+    "client": {
+        "source": "newclient/app"
+    },
+    "functions":{
+    	 "source": "functions/newapp",
+		 "targets": ["firstapp/Test1", "Test2"]
+    },
+    "app_logic":{
+    	"source": "applogic",
+    	"targets":["."]
+    }
+   
+ }
